@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeeshanzeshu&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshanzeshu" /> </p>
 
-- 🌱 I’m currently learned **HTML, CSS, JAVASCRIPT, SQL, and Python**
+- 🌱 I have  currently learned **HTML, CSS, JAVASCRIPT, SQL, and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zeeshanzeshu](https://github.com/zeeshanzeshu)
 

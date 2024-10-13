@@ -1,4 +1,4 @@
-![logo](https://github.com/zeeshanzeshu/zeeshanzeshu/blob/main/sotware%20engineer.jpg)
+![logo](https://github.com/zeeshanzeshu/zeeshanzeshu/blob/main/Group%202.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Zeeshan</h1>
 <h3 align="center">A passionate software developer from Pakistan</h3>
